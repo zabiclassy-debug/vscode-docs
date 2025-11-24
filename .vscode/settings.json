@@ -14,7 +14,8 @@
     "markdown.validate.ignoredLinks": [
         "/Download",
         "/insiders",
-        "/download"
+        "/download",
+        "/api/references/vscode-api"
     ],
     "markdown.copyFiles.destination": {
         // /release-notes/v123.md -> /release-notes/images/123/img.png
